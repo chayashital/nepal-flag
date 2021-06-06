@@ -1,0 +1,18 @@
+.circle {
+    fill: green;
+  }
+  .rectangle {
+    fill: red;
+    stroke: blue;
+    stroke-width:20px
+  }
+  .line {
+    stroke: black;
+    stroke-width: 10px
+    
+  }
+  .poly {
+    fill:red;
+    stroke: blue;
+    stroke-width: 5px
+  }
